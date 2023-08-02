@@ -14,7 +14,7 @@ export const Home: React.FC = () => {
 
   return (
     <div>
-      <p>Home111</p>
+      <p>Home2222</p>
     </div>
   );
 };
